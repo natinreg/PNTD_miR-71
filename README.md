@@ -1,4 +1,4 @@
-## Deciphering the role of miR-71 in Echinococcus multilocularis early development in vitro
+## Deciphering the role of miR-71 in *Echinococcus multilocularis* early development in vitro
 
 Pérez M.G., Spiliotis M., Rego N., Macchiarioli N., Kamenetzky L., Holroyd N., Cucher M.A., Brehm K. and Rosenzvit M.C.
 
